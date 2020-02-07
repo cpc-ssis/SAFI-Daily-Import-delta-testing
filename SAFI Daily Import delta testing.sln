@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SAFI Daily Import delta testing", "SAFI Daily Import delta testing\SAFI Daily Import delta testing.dtproj", "{824A37C1-7A37-4079-9C13-94FA2BB36A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824A37C1-7A37-4079-9C13-94FA2BB36A85}.Development|Default.ActiveCfg = Development
+		{824A37C1-7A37-4079-9C13-94FA2BB36A85}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34466184-B735-40AC-AC7C-9AA72764B4F7}
+	EndGlobalSection
+EndGlobal
